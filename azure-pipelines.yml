@@ -1,13 +1,3 @@
-trigger: none
-pr: none
-
-variables:
-  BASE_BRANCH: "master"
-  CACHE_S3_PREFIX: "stack"
-  CACHE_S3_VERSION: "v0.1.4"
-  S3_BUCKET: "commericalhaskell-gitlab-runner-pipeline-cache"
-  AWS_REGION: "us-east-1"
-
 jobs:
 - template: ./.azure/azure-nightly-template-osx.yml
   parameters:
