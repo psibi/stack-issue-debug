@@ -1,5 +1,0 @@
-resolver: lts-11.19
-packages:
-- .
-extra-deps:
-- a50-0.5@rev:0

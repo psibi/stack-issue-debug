@@ -1,3 +1,0 @@
-resolver: lts-13.10
-compiler: ghc-8.2.2
-packages: []

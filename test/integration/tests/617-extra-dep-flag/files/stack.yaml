@@ -1,7 +1,0 @@
-resolver: ghc-8.2.2
-flags:
-    text:
-        integer-simple: false
-extra-deps:
-- text-1.2.0.3
-packages: []

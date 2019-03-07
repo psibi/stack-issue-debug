@@ -1,4 +1,0 @@
-executables:
- ShowUnicode:
-  dependencies: [base]
-  main: ShowUnicode.hs

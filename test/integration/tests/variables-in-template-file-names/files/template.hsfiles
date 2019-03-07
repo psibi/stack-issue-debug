@@ -1,3 +1,0 @@
-{-# START_FILE {{name}}.cabal #-}
-name: {{name}}
-version: 0.0

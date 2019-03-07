@@ -1,5 +1,0 @@
-resolver: ghc-8.2.2
-name: custom2
-packages:
-- stm-2.4.4.1
-- acme-missiles-0.2

@@ -1,3 +1,0 @@
-resolver: lts-11.22
-extra-deps:
-  - base-4.10.1.0

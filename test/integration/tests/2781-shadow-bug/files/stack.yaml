@@ -1,4 +1,0 @@
-resolver: ghc-8.2.2
-packages:
-- foo
-- bar

@@ -1,6 +1,0 @@
-resolver: lts-11.22
-extra-deps:
-- bytestring-0.10.6.0
-- binary-0.7.5.0
-packages:
-- .

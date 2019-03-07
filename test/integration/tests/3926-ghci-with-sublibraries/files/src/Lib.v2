@@ -1,6 +1,0 @@
-module Lib where
-
-import Internal
-
-testStr :: String
-testStr = "OK"

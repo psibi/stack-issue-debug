@@ -1,7 +1,0 @@
-name: unimportant
-
-dependencies:
-- base
-- async
-
-library: {}

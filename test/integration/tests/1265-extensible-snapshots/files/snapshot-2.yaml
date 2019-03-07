@@ -1,9 +1,0 @@
-resolver: ghc-8.2.2
-name: test-snapshot-2
-packages:
-- stm-2.4.4.1
-- async-2.1.0
-- zlib-0.6.1.1
-# FIXME: test these here
-flags: {}
-ghc-options: {}
